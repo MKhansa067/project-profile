@@ -23,6 +23,9 @@
         <a href="https://www.linkedin.com/in/username" target="_blank" class="me-3">
             <i class="fab fa-linkedin fa-2x"></i>
         </a>
+        <a href="https://github.com/yourusername" target="_blank" class="me-3">
+            <i class="fab fa-github fa-2x"></i>
+        </a>
     </div>
 </div>
 
